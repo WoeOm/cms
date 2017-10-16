@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "generate-schema": "^2.5.1",
+    "react-jsonschema-form": "^0.51.0"
+  }
+}
